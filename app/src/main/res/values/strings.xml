@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="thousand">$1000</string>
+    <string name="_32">32</string>
+    <string name="_12">12</string>
+    <string name="buy_player">Buy Player": -$70</string>
+    <string name="sell_player">Sell Player: +$55</string>
+    <string name="loan_in">Rent new player: -$13</string>
+    <string name="loan_out">Lease to other team: +$7</string>
+    <string name="pay_salaries">Pay Salaries</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="reset">Reset</string>
+    <string name="_640">$640</string>
+    <string name="budget_of_team">Budget of team:</string>
+    <string name="number_of_players">Number of players: </string>
+    <string name="sum_amount_of_salaries">Sum Amount of salaries</string>
+    <string name="time_left_to_pay_salaries">Time left to pay salaries:</string>
+</resources>
